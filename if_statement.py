@@ -3,7 +3,7 @@ light = "Red"
 if light == "Red":
     print("Stop")
 else:
-    print("Go")
+    print("Go!")
     
 
 x = 10
