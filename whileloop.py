@@ -1,4 +1,4 @@
-x = 1
+x = 0
 
 while x < 11:
     print('Current value of', x)
